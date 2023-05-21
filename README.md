@@ -19,7 +19,6 @@ To run the application, follow these steps:
 4. Build the application:
 ```
 javac Main.java
-
 ```
 5. Run the application:
 ```
